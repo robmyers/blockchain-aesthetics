@@ -1,0 +1,10 @@
+BLOCKCHAIN AESTHETICS
+=====================
+
+By Rob Myers <rob@robmyers.org>
+
+Visualising the Bitcoin blockchain with HTML5.
+
+The "block-" visualisations are very slow, as new blocks are only mined every ten minutes or so.
+
+If you want to see things happening more quickly, use the "transaction-" ones.
